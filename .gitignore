@@ -1,0 +1,8 @@
+segfault.c
+text.txt
+.vscode
+.idea
+.DS_Store
+*.o
+42sh
+*.log
